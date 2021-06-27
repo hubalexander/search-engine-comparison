@@ -1,4 +1,4 @@
-# search-comparison
+# search-engine-comparison
 
 Small search comparison program built with Java 11. By entering two search term you will receive numeric search results from two search engines. Terminal based interface. 
 
